@@ -1,4 +1,4 @@
-![bio2bel logo](bio2bel-logo-1024.png)
+![bio2bel logo](bio2bel-logo-256.png)
 
 # The bio2bel Logo
 
